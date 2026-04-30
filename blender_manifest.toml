@@ -3,7 +3,7 @@ schema_version = "1.0.0"
 id = "batch_asset_placer"
 name = "Batch Asset Placer"
 tagline = "Adds selected assets from Asset Browser to 3D cursor"
-version = "1.0.0"
+version = "1.0.1"
 type = "add-on"
 
 blender_version_min = "4.5.0"
