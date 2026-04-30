@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Batch Asset Placer",
     "author": "Andrey Pestryakov (3D Vopros) - https://vk.com/3dvopros",
-    "version": (1, 0),
+    "version": (1, 0, 1),
     "blender": (4, 5, 0),
     "location": "Asset Browser > Header > Add Selected Assets",
     "description": "Adds all selected assets from Asset Browser to the scene at the 3D cursor position",
